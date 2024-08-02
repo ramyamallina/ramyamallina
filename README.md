@@ -1,5 +1,4 @@
 Hi, I'm @ramyamallina
-
 👋 Hi, I’m Ramya Mallina, a Computer Science student at the University of North Carolina at Charlotte, with a minor in Psychology.
 
 👀 I’m passionate about roles in data analysis, data science, and business analysis. I love using data to solve real-world problems and drive business improvements.
@@ -17,3 +16,5 @@ Portfolio: ramyamallina.wixsite.com/ramyamallina
 😄 Pronouns: She/Her
 
 ⚡ Fun fact: I’m passionate about coding education for girls and often organize workshops and hackathons to promote it.
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
