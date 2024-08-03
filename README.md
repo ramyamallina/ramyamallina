@@ -1,6 +1,6 @@
 ### **Hi, I'm @ramyamallina**
 
-👋 Hi, I’m Ramya Mallina, a Computer Science student at the University of North Carolina at Charlotte, with a minor in Psychology. 
+👋 Hi, I’m Ramya Mallina, a Computer Science student at the University of North Carolina at Charlotte with a concentration in data science and a minor in Psychology. 
 
 👀 I’m passionate about roles in data analysis, business analysis, and data science. I love using data to solve real-world problems and drive business improvements.
 
